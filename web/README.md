@@ -1,0 +1,15 @@
+# Desenvolvimento Web
+- [x] HTML - Hypertext Markup Language
+- [x] CSS - Cascading Style Sheets
+- [x] JavaScript
+- [x] NodeJS
+- [x] DOM - Document Object Model
+- [x] Ajax - Asynchronous JavaScript and XML
+- [x] Gulp
+- [x] Webpack
+- [x] JQuery
+- [] Bootstrap
+- [] React
+- [] VueJS
+- [] MySQL
+- [] MongoDB
