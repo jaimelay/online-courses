@@ -8,8 +8,8 @@
 - [x] Gulp
 - [x] Webpack
 - [x] JQuery
-- [] Bootstrap
-- [] React
-- [] VueJS
-- [] MySQL
-- [] MongoDB
+- [ ] Bootstrap
+- [ ] React
+- [ ] VueJS
+- [ ] MySQL
+- [ ] MongoDB
