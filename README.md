@@ -1,5 +1,7 @@
 # Cursos Online
 #### Repositório criado para guardar exercícios e projetos feitos durante os cursos online.
+### Rocketseat
+* [Semana Omnistack 8.0 - Tindev (Projeto Real)](https://rocketseat.com.br/week)
 ### Web
 * [https://www.udemy.com/curso-web](https://www.udemy.com/curso-web)
 * [https://www.udemy.com/web-completo](https://www.udemy.com/web-completo)
